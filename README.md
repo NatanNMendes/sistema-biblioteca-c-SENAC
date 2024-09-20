@@ -1,7 +1,3 @@
-Aqui está o README atualizado, agora com uma explicação mais detalhada sobre a organização dos arquivos e as funcionalidades do sistema **Biblioteca Lunar** (Biblioteca em C):
-
----
-
 # Biblioteca em C 📚🌕
 
 ## Sobre o Projeto
